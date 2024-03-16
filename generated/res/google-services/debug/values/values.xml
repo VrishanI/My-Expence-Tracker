@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">980368583833-sir6lnrbg0sfs96q2f73a21457ldp60c.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">980368583833</string>
+    <string name="google_api_key" translatable="false">AIzaSyAaRIIimx0CaHo4NTIgJ-9fD-GuQaOuskA</string>
+    <string name="google_app_id" translatable="false">1:980368583833:android:8a53b977ad5766e7099c08</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAaRIIimx0CaHo4NTIgJ-9fD-GuQaOuskA</string>
+    <string name="google_storage_bucket" translatable="false">my-expense-tracker-6bfd4.appspot.com</string>
+    <string name="project_id" translatable="false">my-expense-tracker-6bfd4</string>
+</resources>
